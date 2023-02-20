@@ -4,6 +4,6 @@ This is an example of using React Native with [Glassfy](https://glassfy.io/) to 
 
 ## Preview
 
-![Glassfy React Native App](./screenshots/1.png)
-![Glassfy React Native App Purchase](./screenshots/2.png)
-![Glassfy React Native App Purchase Success](./screenshots/3.png)
+<img src="./screenshots/1.png" width=30%>
+<img src="./screenshots/2.png" width=30%>
+<img src="./screenshots/3.png" width=30%>
